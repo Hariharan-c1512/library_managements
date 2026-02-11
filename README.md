@@ -18,3 +18,7 @@ Searching for a Book
 Enter the Title or Book ID in the search bar.
 If the record exists, the system will output the details.
 If the input does not match any record, you will receive a "No Return / Invalid" alert.
+<img width="584" height="297" alt="image" src="https://github.com/user-attachments/assets/cbddf03c-8215-4b20-9add-362ad7275162" />
+<img width="632" height="552" alt="image" src="https://github.com/user-attachments/assets/f3a91054-3be3-4416-8aa6-85de4fbe9c49" />
+<img width="910" height="202" alt="image" src="https://github.com/user-attachments/assets/4f3f3043-459a-424a-969a-19490525d192" />
+
